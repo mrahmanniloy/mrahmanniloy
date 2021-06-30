@@ -8,10 +8,10 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-MaksudurRahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksudur-rahman-82b586162/)](https://www.linkedin.com/in/maksudur-rahman-82b586162/)
 [![Kaggle Badge](https://img.shields.io/badge/-makatronium-purple?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/makatronium)](https://www.kaggle.com/makatronium)
-[![Portfolio Badge](https://img.shields.io/badge/-mrahmanniloy-9cf?style=flat-square&logo=github&logoColor=black&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Portfolio Badge](https://img.shields.io/badge/-mrahmanniloy-9cf?style=flat-square&logo=github&logoColor=black&link=https://mrahmanniloy.github.io)](https://mrahmanniloy.github.io)
 [![HackerRank Badge](https://img.shields.io/badge/-Makatron-yellow?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/Makatron)](https://www.hackerrank.com/Makatron)
 [![DataCamp Badge](https://img.shields.io/badge/-maksudur1476-03a57a?style=flat-square&logo=DataCamp&logoColor=black&link=https://www.datacamp.com/profile/maksudur1476)](https://www.datacamp.com/profile/maksudur1476)
-[![Gmail Badge](https://img.shields.io/badge/-maksudur1476@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maksudur1476@gmail.com)](mailto:maksudur1476@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-maksudur1476@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maksudur.r@outlook.com)](mailto:maksudur.r@outlook.com)
 
 ## <img src="https://raw.githubusercontent.com/mrahmanniloy/mrahmanniloy/master/coding.gif" width="30px"> My Skills and Stacks
 
