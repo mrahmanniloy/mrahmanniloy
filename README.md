@@ -2,7 +2,7 @@
 
 I am Maksudur Rahman, a data-enthusiast & a self-taught software engineer and researcher of finding intelligent software solutions. I have been learning the depths of building Data-&-AI-based systems and looking forward to work in the software industry. 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahman-maksudur/rahman-maksudur/master/rick.gif" width="420" height="260" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahman-maksudur/rahman-maksudur/master/rick.gif" width="300" height="300" />
 
 Find out more about me & feel free to connect with me here:
 
