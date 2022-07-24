@@ -1,8 +1,8 @@
-## Hello and Welcome! স্বাগতম! <img src="https://raw.githubusercontent.com/mrahmanniloy/mrahmanniloy/master/wave.gif" width="30px">
+## Hello and Welcome! স্বাগতম! <img src="https://raw.githubusercontent.com/rahman-maksudur/rahman-maksudur/master/wave.gif" width="30px">
 
-I am Maksudur Rahman, a data-enthusiast & a self-taught researcher of finding intelligent software solutions. I have been learning the depths of building Data-&-AI-based systems and looking forward to work in the software industry. 
+I am Maksudur Rahman, a data-enthusiast & a self-taught software engineer and researcher of finding intelligent software solutions. I have been learning the depths of building Data-&-AI-based systems and looking forward to work in the software industry. 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mrahmanniloy/mrahmanniloy/master/animated_coder.gif" width="420" height="260" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahman-maksudur/rahman-maksudur/master/rick.gif" width="420" height="260" />
 
 Find out more about me & feel free to connect with me here:
 
@@ -13,7 +13,9 @@ Find out more about me & feel free to connect with me here:
 [![DataCamp Badge](https://img.shields.io/badge/-maksudur1476-03a57a?style=flat-square&logo=DataCamp&logoColor=black&link=https://www.datacamp.com/profile/maksudur1476)](https://www.datacamp.com/profile/maksudur1476)
 [![Gmail Badge](https://img.shields.io/badge/-maksudur1476@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maksudur.r@outlook.com)](mailto:maksudur.r@outlook.com)
 
-## <img src="https://raw.githubusercontent.com/mrahmanniloy/mrahmanniloy/master/coding.gif" width="30px"> My Skills and Stacks
+
+
+## <img src="https://raw.githubusercontent.com/rahman-maksudur/rahman-maksudur/master/coding.gif" width="30px"> My Skills and Stacks
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
@@ -31,10 +33,9 @@ Find out more about me & feel free to connect with me here:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahman-maksudur/rahman-maksudur/master/animated_coder.gif" width="420" height="260" />
+<br />
+<br />
+<br />
 
-<br />
-<br />
-<br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrahmanniloy&show_icons=true&theme=nightowl" alt="mrahmanniloy" />
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mrahmanniloy.mrahmanniloy)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rahman-maksudur.rahman-maksudur)
